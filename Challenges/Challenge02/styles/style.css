@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 :root {
   --MB-off-white: #F1FFF6;
   --MB-dark-mint: #24E5A3;
@@ -6,3 +11,6 @@
   --MB-black: #221727;
 }
 
+.about {
+  background-color: var(--MB-purple);
+}
